@@ -5,5 +5,4 @@
 foreach $line (@lines){
 	last if ($line == 42);
 	print "$line";
-
 }
